@@ -1,2 +1,0 @@
-# dister
-blog dister
